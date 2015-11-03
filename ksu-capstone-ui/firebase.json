@@ -1,0 +1,8 @@
+{
+  "firebase": "https://ksu-capstone-ui.firebaseio.com",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
